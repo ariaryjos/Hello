@@ -26,7 +26,7 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 
 <!--
-**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ariaryjos/Hello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
