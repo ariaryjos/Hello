@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm Ahmad Rifqi Arya. A Junior Full Stack Developer on PHP. An Web Developer at [DeliveryHero](https://www.stmi.ac.id/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+I'm Ahmad Rifqi Arya. A Junior Full Stack Developer on PHP. An Web Developer at [DeliveryHero](https://www.stmi.ac.id/) (Jakarta). Community is :heart:. Code blooded animal :stuck_out_tongue: and :coffee: lover. 
 
 I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
 
