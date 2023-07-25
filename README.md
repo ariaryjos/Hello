@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm Sagar Viradiya. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+I'm Ahmad Rifqi Arya. A Junior Full Stack Developer on PHP. An Web Developer at [DeliveryHero](https://www.stmi.ac.id/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
 
 I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
 
